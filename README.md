@@ -1,5 +1,8 @@
 <p align="center">
   <h1 align="center">react-native-backstage</h1>
+  <h2 align="center">一般来说，app每次退出，然后再次进入app，则会重新重启动页加载一次，
+	这样会使app到存活率(存在时间)变低，而react-native-backstage则会让app退出到后台，再次点击app则会回到原来到页面，包括状态都不会重新加载，这样使app的存活率(存在时间)变低，
+	例如支付宝，微信都使用的此功能，来增加存活率</h1>
 </p>
 
 
