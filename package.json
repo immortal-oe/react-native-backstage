@@ -1,7 +1,7 @@
 {
 	"name": "react-native-backstage",
 	"title": "React Native Backstage",
-	"version": "1.0.0",
+	"version": "1.0.6",
 	"description": "TODO",
 	"main": "index.js",
 	"files": [ "README.md", "android", "index.js" ],
