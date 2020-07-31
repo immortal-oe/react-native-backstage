@@ -11,8 +11,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/XPgan/react-native-backstage.git",
-		"baseUrl": "https://github.com/XPgan/react-native-backstage.git"
+		"url": "https://github.com/XPgan/react-native-backstage",
+		"baseUrl": "https://github.com/XPgan/react-native-backstage"
 	},
 	"keywords": [ "react-native" ],
 	"author": {
